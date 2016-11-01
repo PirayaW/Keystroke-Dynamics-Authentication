@@ -2,7 +2,7 @@
 
 Keystroke dynamics approach for user authentication.
 
-##### Piraya Wongnimmarn
+#### Piraya Wongnimmarn
 
 M.S. Capstone project, UCLA, Fall 2016
 
